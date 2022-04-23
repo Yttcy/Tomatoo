@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MyWebServer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MyWebServer">
+				<Option output="/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/MyWebServer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 MyWebServer"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MyWebServer/fast">
+				<Option output="/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/MyWebServer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 MyWebServer/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/yttcy/WorkingFiles/C++/MyWebServer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ServerCppfiles/Epoll.cpp">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ServerCppfiles/EventHander.cpp">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ServerCppfiles/Http.cpp">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ServerCppfiles/MyServer.cpp">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ServerCppfiles/Reactor.cpp">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ServerCppfiles/Time.cpp">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ServerHeadfiles/Epoll.h">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ServerHeadfiles/EventHander.h">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ServerHeadfiles/Http.h">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ServerHeadfiles/MyServer.h">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ServerHeadfiles/Reactor.h">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ServerHeadfiles/Time.h">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ThreadCppfiles/ReactorThread.cpp">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ThreadCppfiles/ReactorThreadPool.cpp">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ThreadCppfiles/Thread.cpp">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ThreadHeadfiles/Condition.h">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ThreadHeadfiles/CountDownLatch.h">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ThreadHeadfiles/CurrentThread.h">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ThreadHeadfiles/MutexLock.h">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ThreadHeadfiles/ReactorThread.h">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ThreadHeadfiles/ReactorThreadPool.h">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/ThreadHeadfiles/Thread.h">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/main.cpp">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/test/test.cpp">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/test/test.h">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/util/Util.cpp">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/util/Util.h">
+			<Option target="MyWebServer"/>
+		</Unit>
+		<Unit filename="/home/yttcy/WorkingFiles/C++/MyWebServer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
